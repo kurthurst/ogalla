@@ -179,9 +179,9 @@
 			<thead>
 				<tr>
 					<th></th>
-					<td>Unfamiliar</td>
-					<td>Observed</td>
-					<td>Practiced</td>
+					<td class="small">Unfamiliar</td>
+					<td class="small">Observed</td>
+					<td class="small">Practiced</td>
 				</tr>
 			</thead>
 			<tbody>
